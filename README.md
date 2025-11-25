@@ -1,9 +1,9 @@
 In this repository, you will find the background to how the Positive Appraisal Style (PAS) scales were developed, their theoretical background, and existing applications and results. 
-This is what you will find in each folder
+This is what you will find in each folder:
 
   * _Publications-pas-theory_
     
-    The theoretical background to the development of the scales, explaining the Positive Appraisal Style Theory of Resilience. 
+    The theoretical background to the development of the scales, explaining the Positive Appraisal Style Theory of Resilience (PASTOR). 
   
   * _Publications-pas-methods_
   
